@@ -1,9 +1,9 @@
 
 
 {
-  "name": "CRISS-AI-LITE",
+  "name": "CODE8-MD",
   "version": "0.0.5",
-  "description": "A WhatsApp Bot Created By criss vevo",
+  "description": "A WhatsApp Bot Created By ZEZE TECH",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name lite",
