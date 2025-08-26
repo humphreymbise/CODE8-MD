@@ -7,12 +7,12 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || "",
-    // add your Session Id make sure it starts with CRISS-AI-LITE~
+    // add your Session Id make sure it starts with CODE8-MD 
 
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "CRISS-AI-LITE",
+    BOT_NAME: process.env.BOT_NAME || "CODE8-MD",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -33,7 +33,7 @@ module.exports = {
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     // make true if you want auto reply on status 
 
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY CRISS AI LETE 😆*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY CODE8-MD 😆*",
     // set the auto reply message on status reply  
 
     WELCOME: process.env.WELCOME || "false",
@@ -61,7 +61,7 @@ module.exports = {
 
 *© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴀɪ*
 
-> ɢɪᴛʜᴜʙ : github.com/criss-vevo/CRISS-AI-LITE`,
+> ɢɪᴛʜᴜʙ : github.com/humphreymbise/CODE8-MD`,
     // add alive msg here 
 
     STICKER_NAME: process.env.STICKER_NAME || "ᴄʀɪss-ᴀɪ-ʟɪᴛᴇ",
@@ -79,10 +79,10 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "255614008672",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ᴄʀɪss ᴠᴇᴠᴏ",
+    OWNER_NAME: process.env.OWNER_NAME || "ZEZE TECH",
     // add bot owner name
 
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀɪss ᴠᴇᴠᴏ*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ZEZE TECH*",
     // add bot owner description  
 
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -130,18 +130,18 @@ module.exports = {
     version: process.env.version || "0.0.5",
 
     START_MSG: process.env.START_MSG || 
-`*Hᴇʟʟᴏ ᴛʜᴇʀᴇ ᴄʀɪss ᴀɪ ʟɪᴛᴇ ᴄᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
+`*Hᴇʟʟᴏ ᴛʜᴇʀᴇ CODE8-MD ᴏɴɴᴇᴄᴛᴇᴅ! 👋🏻* 
 
-*ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ ᴄʀɪss ᴀɪ ʟɪᴛᴇ* 
+*ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ CODE8-MD* 
 
 > sᴜʙsᴄʀɪʙᴇ ʏᴛ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴛᴜᴛᴏʀɪᴀʟs
-https://youtube.com/@criss-vevo
+https://youtube.com/
 
 - *ʏᴏᴜʀ ʙᴏᴛ ᴘʀᴇғɪx: ➡️[ . ]*
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
 
 > ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
-https://github.com/criss-vevo/CRISS-AI-LITE
+https://github.com/humphreymbise/CODE8-MD
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʀɪss ᴠᴇᴠᴏ`
 };
